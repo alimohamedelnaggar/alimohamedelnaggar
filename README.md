@@ -30,8 +30,6 @@
 ![angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio]https://img.shields.io/visual-studio-app-center/releases/size/:owner/:app/:token
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.Net)&nbsp;
 ![entity_framework](https://img.shields.io/badge/-entity_framework-05122A?style=flat&logo=entity_framework)&nbsp;
 
