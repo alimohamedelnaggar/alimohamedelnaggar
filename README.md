@@ -27,13 +27,12 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.Net)&nbsp;
-![.Net](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
+![typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
 
 
 
