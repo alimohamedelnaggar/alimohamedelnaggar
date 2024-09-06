@@ -34,14 +34,11 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  &nbsp; &nbsp; &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-
-
+&nbsp; &nbsp; &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimohamedelnaggar&label=Profile%20views&color=0e75b6&style=flat" alt="alimohamedelnaggar" /> </p>
-
 <h3 align="left">Add-ons:</h3>
 <p align="left">
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimohamedelnaggar&show_icons=true&locale=en&layout=compact" alt="alimohamedelnaggar" /></p> &nbsp;      
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimohamedelnaggar&show_icons=true&locale=en" alt="alimohamedelnaggar" /></p>
 
