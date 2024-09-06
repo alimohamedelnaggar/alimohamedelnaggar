@@ -21,7 +21,6 @@
 <a href="https://www.linkedin.com/in/ali-mohamed-47983922a/" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&style=flat-square&logoColor=white"/></a> &nbsp;
 <a href="https://t.me/alimohamedelnaggar" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Mohamed-0077B5?style=for-the-badge&logo=Telegram&style=flat&logoColor=wight"/></a> &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100010735111198" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Mohamed-0077B5?style=for-the-badge&logo=facebook&style=flat-square&logoColor=white"/></a> 
-### 🛠 &nbsp;Tech Stack
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -35,8 +34,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  &nbsp; &nbsp; &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> &nbsp; &nbsp; &nbsp;
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimohamedelnaggar&label=Profile%20views&color=0e75b6&style=flat" alt="alimohamedelnaggar" /> </p>
