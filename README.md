@@ -1,43 +1,41 @@
-<!-- ===================== API HEADER BANNER ===================== -->
+<!-- ===================== CYBERPUNK HUD HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,40:1E293B,100:0F172A&height=180&section=header&text=%7B%20%22developer%22:%20%22Ali%20Mohamed%22%20%7D&fontSize=38&fontColor=38BDF8&animation=fadeIn&fontAlignY=45&desc=GET%20/api/v1/developer/profile%20-%20200%20OK&descAlignY=70&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050515,30:0D1117,70:1F293D,100:050515&height=220&section=header&text=%E2%9A%A1%20ALI%20MOHAMED%20%E2%9A%A1&fontSize=52&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=%E3%80%8B%20FULL-STACK%20.NET%20%20%7C%20%20ANGULAR%20ARCHITECT%20%E3%80%8A&descAlignY=62&descSize=16" width="100%" />
 </p>
 
-<!-- ===================== TYPING API ENDPOINTS ===================== -->
+<!-- ===================== TYPING SVG ===================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=GET+/api/v1/skills?stack=.net-core,angular;POST+/api/v1/solutions/scalable-web-apps;EXEC+/api/v1/architecture?pattern=clean-architecture;CONNECT+/api/v1/signalr/realtime-stream" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E_SYSTEM.INIT%20%3A%20ASP.NET%20Core%20%2B%20Clean%20Architecture;%3E_FRONTEND.LOAD%20%3A%20Angular%20%2B%20RxJS%20%2B%20TypeScript;%3E_MODULE.AI%20%3A%20RAG%20%2B%20Vector%20Search%20%2B%20LLM%20Agents;%3E_REALTIME.CONNECT%20%3A%20SignalR%20Sockets%20Online" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ===================== TERMINAL / INTERACTIVE CODE BLOCK ===================== -->
-<p align="center">
-  <img src="https://readme-emulator-log.vercel.app/api?theme=dark&headline=ali-mohamed@dev-server:~$&width=700&height=190&lines=dotnet%20run%20--project%20AliMohamed.Portfolio.csproj;[INFO]%20Loading%20Core%20Modules...;[OK]%20ASP.NET%20Core%20%7C%20Angular%20%7C%20Clean%20Architecture;[OK]%20AI%20Integrations%20(RAG%20%26%20Vector%20Search)%20Active;[SUCCESS]%20System%20Ready%20for%20Deployment!🚀" />
-</p>
-
-<!-- ===================== BADGES / LINKS ===================== -->
+<!-- ===================== HUD METRICS & BADGES ===================== -->
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=alimohamedelnaggar&label=API%20Requests&color=38BDF8&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=alimohamedelnaggar&label=SYSTEM_ACCESS&color=00F0FF&style=for-the-badge" />
+</p>
+
+<br>
+
+<!-- ===================== GAME CHARACTER / SYSTEM ANIMATION ===================== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2ZnRzcWhsOXdldGN2Zmd1eWJ5OXEwdzdpdWJicTF5aGNlcnllMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svv0QQ26pU/giphy.gif" width="550" />
 </p>
 
 ---
 
-### 📡 `/api/v1/developer/summary`
+### 🎛️ SYSTEM SPECIFICATIONS & CORE MODULES
 
-```json
-{
-  "status": 200,
-  "developer": {
-    "name": "Ali Mohamed",
-    "role": "Full-Stack .NET Developer",
-    "core_stack": [".NET 8", "ASP.NET Core Web API", "Angular", "Entity Framework Core"],
-    "architecture_patterns": ["Clean Architecture", "CQRS", "Domain-Driven Design"],
-    "ai_focus": ["RAG Architecture", "LLM APIs Integration", "Vector Search"]
-  }
-}
+```text
+======================================================================
+[+] ARCHITECTURE  : Clean Architecture, CQRS, DDD, REST APIs
+[+] BACKEND CORE  : C#, ASP.NET Core 8, EF Core, SignalR, SQL Server
+[+] FRONTEND CORE : Angular 17+, TypeScript, RxJS, NgRx, Tailwind CSS
+[+] AI & RAG      : OpenAI / Gemini APIs, Vector Databases, OCR Pipeline
+======================================================================
