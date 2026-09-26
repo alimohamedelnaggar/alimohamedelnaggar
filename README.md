@@ -1,47 +1,168 @@
+# Hi, I'm Ali Mohamed 👋
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+### Full-Stack .NET Developer | C# | ASP.NET Core | Angular
 
-<h3 align="center">
-  Welcome to ALi Mohamed's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+I'm a Computer Science student and Full-Stack Web Developer focused on building
+scalable, maintainable, and production-ready web applications.
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;Always%20learning%20new%20things;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+I mainly work with **C#, ASP.NET Core, Angular, SQL Server, and Entity Framework Core**,
+with a strong interest in clean architecture, API design, and modern software engineering practices.
 
-- 🏢 I'm a Software Engineer and full-stack web developer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, C# , SQL Server or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+---
 
-### Connect with Me :
+## 🚀 About Me
 
-<a href="https://www.linkedin.com/in/ali-mohamed-47983922a/" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&style=flat-square&logoColor=white"/></a> &nbsp;
-<a href="https://t.me/alimohamedelnaggar" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Mohamed-0077B5?style=for-the-badge&logo=Telegram&style=flat&logoColor=wight"/></a> &nbsp;
-<a href="https://www.facebook.com/profile.php?id=100010735111198" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Mohamed-0077B5?style=for-the-badge&logo=facebook&style=flat-square&logoColor=white"/></a> 
+- 🎓 Computer Science Student
+- 💻 Full-Stack Web Developer
+- 🔷 Backend: C# & ASP.NET Core
+- 🅰️ Frontend: Angular, TypeScript
+- 🗄️ Database: SQL Server & Entity Framework Core
+- 🏗️ Interested in Clean Architecture, CQRS, SOLID & Design Patterns
+- 🤖 Exploring AI integration, RAG systems and LLM-powered applications
+- 📚 Continuously improving my software engineering skills
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
-![angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.Net)&nbsp;
-![entity_framework](https://img.shields.io/badge/-entity_framework-05122A?style=flat&logo=entity_framework)&nbsp;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alimohamedelnaggar&label=Profile%20views&color=0e75b6&style=flat" alt="alimohamedelnaggar" /> </p>
-<h3 align="left">Add-ons:</h3>
-<p align="left">
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimohamedelnaggar&show_icons=true&locale=en&layout=compact" alt="alimohamedelnaggar" /></p> &nbsp;      
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimohamedelnaggar&show_icons=true&locale=en" alt="alimohamedelnaggar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimohamedelnaggar&" alt="alimohamedelnaggar&" color="black"/></p>
+- C#
+- ASP.NET Core Web API
+- ASP.NET Core MVC
+- Entity Framework Core
+- LINQ
+- MediatR
+- SignalR
+- JWT Authentication
+- ASP.NET Identity
+- RESTful APIs
 
+### Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap,tailwind" />
+</p>
 
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
 
+### Database & Data
 
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlserver,redis" />
+</p>
+
+- SQL Server
+- Entity Framework Core
+- Redis
+- Database Design
+- SQL & LINQ
+
+### Architecture & Engineering
+
+- Clean Architecture
+- Onion Architecture
+- CQRS
+- Vertical Slice Architecture
+- Repository Pattern
+- SOLID Principles
+- Design Patterns
+- Dependency Injection
+- REST API Design
+
+### AI & Emerging Technologies
+
+- OpenAI APIs
+- Ollama
+- RAG
+- Qdrant
+- AI-powered applications
+- Embeddings & Vector Search
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker,postman" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🏫 Center Management System
+
+A full-stack platform for managing tutoring centers, students, teachers,
+attendance, sessions, payments, exams and reports.
+
+**Tech:** ASP.NET Core 10 · C# · Angular · SQL Server · EF Core · SignalR · CQRS
+
+**Key Features**
+- Student & teacher management
+- Group and session management
+- Real-time attendance notifications
+- Payment & financial management
+- Online & paper exams
+- Question bank
+- Reports & dashboards
+- Role-based authorization
+
+---
+
+### ⚖️ LegalFlow
+
+AI-powered legal case management and analysis platform.
+
+**Tech:** ASP.NET Core · Angular · SQL Server · OpenAI · Qdrant · RAG
+
+**Key Features**
+- Legal case management
+- Document processing
+- PDF text extraction
+- Document chunking
+- Vector search
+- Semantic retrieval
+- AI-powered legal analysis
+
+---
+
+### 🏪 Store Management System
+
+A desktop management system designed for retail stores.
+
+**Tech:** C# · .NET · WPF · SQL Server · EF Core · QuestPDF
+
+**Key Features**
+- Product & inventory management
+- Sales & purchases
+- Expenses
+- Returns
+- Invoice generation
+- Arabic invoice printing
+- Reports
+- Inventory tracking
+
+---
+
+## 🎯 Currently Learning
+
+```text
+Advanced ASP.NET Core
+        ↓
+Clean Architecture
+        ↓
+CQRS & Vertical Slice Architecture
+        ↓
+Advanced SQL & EF Core
+        ↓
+System Design
+        ↓
+AI / RAG Applications
