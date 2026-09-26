@@ -1,44 +1,35 @@
-<!-- ===================== VS CODE HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:3B82F6,100:1F2937&height=200&section=header&text=%3C%20Ali%20Mohamed%20/%3E&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=const%20role%20=%20'Full-Stack%20.NET%20Developer';&descAlignY=60&descSize=18" width="100%" />
-</p>
+<!-- ========================================================= -->
+<!--                    ALI MOHAMED                            -->
+<!--              FULL-STACK .NET DEVELOPER                   -->
+<!-- ========================================================= -->
 
-<!-- ===================== TYPING ANIMATION (Code Flow) ===================== -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Apps+with+.NET+%26+Angular;Crafting+RESTful+APIs+using+ASP.NET+Core;Architecting+Clean+Architecture+%26+CQRS;Exploring+AI+%26+RAG+Implementations;Integrating+SignalR+for+Real-time+Magic" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<!-- ===================== SOCIAL / CONTACT BADGES ===================== -->
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=alimohamedelnaggar&label=System%20Accesses&color=2563EB&style=flat-square" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0B1120,75:111827,100:00FF88&height=230&section=header&text=ALI.EXE&fontSize=68&fontColor=00FF88&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20.NET%20DEVELOPER&descAlignY=60&descSize=21"/>
 
 <br>
 
-<!-- ===================== MINIMALIST DEVELOPER GIF ===================== -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e414c-6878-43d8-a15d-854e4c295790.gif" width="450" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=700&color=00FF88&center=true&vCenter=true&width=850&height=60&lines=INITIALIZING+DEVELOPER+SYSTEM...;LOADING+C%23................%5B+OK+%5D;LOADING+ASP.NET+CORE........%5B+OK+%5D;LOADING+ANGULAR.............%5B+OK+%5D;LOADING+SQL+SERVER...........%5B+OK+%5D;LOADING+AI+MODULES...........%5B+OK+%5D;SYSTEM+READY+%E2%9C%93"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=alimohamedelnaggar&label=PROFILE%20VISITS&color=00ff88&style=for-the-badge"/>
+
+</div>
 
 ---
 
-### 🚀 Technical Overview / Mapped Skills
+<!-- ========================================================= -->
+<!--                       SYSTEM BAR                          -->
+<!-- ========================================================= -->
 
-```csharp
-public class Developer
-{
-    public string Name { get; } = "Ali Mohamed";
-    public string Title { get; } = "Full-Stack .NET Developer";
-    public string[] Backend { get; } = { ".NET 8", "ASP.NET Core", "C#", "Entity Framework Core", "SQL Server", "SignalR" };
-    public string[] Frontend { get; } = { "Angular", "TypeScript", "RxJS", "Tailwind CSS", "Bootstrap" };
-    public string[] Architecture { get; } = { "Clean Architecture", "CQRS", "Domain-Driven Design (DDD)" };
-    public string[] DevOps { get; } = { "Docker", "Git", "CI/CD (Actions)", "Azure" };
-}
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║  ●  ALI@GITHUB:~/PROFILE                              ● ONLINE     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  [01] ABOUT     [02] SKILLS     [03] PROJECTS     [04] STATS       ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
