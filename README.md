@@ -1,87 +1,42 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">
-  Hi 👋, I'm Ali Mohamed
-</h1>
-
-<h3 align="center">
-  Full-Stack .NET Developer
-</h3>
+<!-- ===================== ANIMATED HEADER ===================== -->
 
 <p align="center">
-  <a href="https://github.com/alimohamedelnaggar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ali-mohamed-47983922a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://t.me/alimohamedelnaggar">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Ali%20Mohamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20.NET%20Developer&descAlignY=58&descSize=20" />
+</p>
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full-Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular;Building+Scalable+Web+Applications;Clean+Architecture+%7C+CQRS;Exploring+AI+%26+RAG+Applications" />
+</p>
+
+<!-- ===================== ANIMATED CODING ===================== -->
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="420"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alimohamedelnaggar&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=alimohamedelnaggar&label=Profile%20Views&color=2563EB&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Hey, I'm Ali Mohamed
 
-I'm a **Computer Science student and Full-Stack .NET Developer** focused on
-building scalable, maintainable, and production-ready web applications.
+### `Full-Stack .NET Developer`
 
-My main stack is **C#, ASP.NET Core, Angular, SQL Server, and Entity Framework Core**.
+I'm a Computer Science student and Full-Stack Developer focused on building
+modern, scalable and maintainable web applications.
 
-I'm particularly interested in:
-
-- 🏗️ Clean Architecture & scalable application design
-- 🔷 ASP.NET Core Web APIs
-- 🅰️ Angular applications
-- 🗄️ Database design & performance
-- 🔐 Authentication & authorization
-- ⚡ Real-time applications with SignalR
-- 🤖 AI-powered applications & RAG systems
-
----
-
-# 🛠️ Tech Stack
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-</p>
-
-`C#` `ASP.NET Core` `Web API` `MVC` `Entity Framework Core`
-`LINQ` `MediatR` `SignalR` `JWT` `ASP.NET Identity`
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap,tailwind" />
-</p>
-
-`Angular` `TypeScript` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS`
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,redis" />
-</p>
-
-`SQL Server` `Entity Framework Core` `LINQ` `Redis`
-
-### Architecture & Engineering
+I work mainly with:
 
 ```text
+C#              ASP.NET Core
+Angular         TypeScript
+SQL Server      Entity Framework Core
+SignalR         CQRS
 Clean Architecture
-Onion Architecture
-CQRS
-Vertical Slice Architecture
-SOLID Principles
-Design Patterns
-Dependency Injection
-Repository Pattern
-RESTful API Design
-Role-Based Authorization
