@@ -1,29 +1,51 @@
-# Hi, I'm Ali Mohamed 👋
+<!-- ===================== HEADER ===================== -->
 
-### Full-Stack .NET Developer | C# | ASP.NET Core | Angular
+<h1 align="center">
+  Hi 👋, I'm Ali Mohamed
+</h1>
 
-I'm a Computer Science student and Full-Stack Web Developer focused on building
-scalable, maintainable, and production-ready web applications.
+<h3 align="center">
+  Full-Stack .NET Developer
+</h3>
 
-I mainly work with **C#, ASP.NET Core, Angular, SQL Server, and Entity Framework Core**,
-with a strong interest in clean architecture, API design, and modern software engineering practices.
+<p align="center">
+  <a href="https://github.com/alimohamedelnaggar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ali-mohamed-47983922a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/alimohamedelnaggar">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alimohamedelnaggar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- 💻 Full-Stack Web Developer
-- 🔷 Backend: C# & ASP.NET Core
-- 🅰️ Frontend: Angular, TypeScript
-- 🗄️ Database: SQL Server & Entity Framework Core
-- 🏗️ Interested in Clean Architecture, CQRS, SOLID & Design Patterns
-- 🤖 Exploring AI integration, RAG systems and LLM-powered applications
-- 📚 Continuously improving my software engineering skills
+I'm a **Computer Science student and Full-Stack .NET Developer** focused on
+building scalable, maintainable, and production-ready web applications.
+
+My main stack is **C#, ASP.NET Core, Angular, SQL Server, and Entity Framework Core**.
+
+I'm particularly interested in:
+
+- 🏗️ Clean Architecture & scalable application design
+- 🔷 ASP.NET Core Web APIs
+- 🅰️ Angular applications
+- 🗄️ Database design & performance
+- 🔐 Authentication & authorization
+- ⚡ Real-time applications with SignalR
+- 🤖 AI-powered applications & RAG systems
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Backend
 
@@ -31,16 +53,8 @@ with a strong interest in clean architecture, API design, and modern software en
   <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
 
-- C#
-- ASP.NET Core Web API
-- ASP.NET Core MVC
-- Entity Framework Core
-- LINQ
-- MediatR
-- SignalR
-- JWT Authentication
-- ASP.NET Identity
-- RESTful APIs
+`C#` `ASP.NET Core` `Web API` `MVC` `Entity Framework Core`
+`LINQ` `MediatR` `SignalR` `JWT` `ASP.NET Identity`
 
 ### Frontend
 
@@ -48,121 +62,26 @@ with a strong interest in clean architecture, API design, and modern software en
   <img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap,tailwind" />
 </p>
 
-- Angular
-- TypeScript
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
+`Angular` `TypeScript` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS`
 
-### Database & Data
+### Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=sqlserver,redis" />
 </p>
 
-- SQL Server
-- Entity Framework Core
-- Redis
-- Database Design
-- SQL & LINQ
+`SQL Server` `Entity Framework Core` `LINQ` `Redis`
 
 ### Architecture & Engineering
 
-- Clean Architecture
-- Onion Architecture
-- CQRS
-- Vertical Slice Architecture
-- Repository Pattern
-- SOLID Principles
-- Design Patterns
-- Dependency Injection
-- REST API Design
-
-### AI & Emerging Technologies
-
-- OpenAI APIs
-- Ollama
-- RAG
-- Qdrant
-- AI-powered applications
-- Embeddings & Vector Search
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker,postman" />
-</p>
-
----
-
-## 💼 Featured Projects
-
-### 🏫 Center Management System
-
-A full-stack platform for managing tutoring centers, students, teachers,
-attendance, sessions, payments, exams and reports.
-
-**Tech:** ASP.NET Core 10 · C# · Angular · SQL Server · EF Core · SignalR · CQRS
-
-**Key Features**
-- Student & teacher management
-- Group and session management
-- Real-time attendance notifications
-- Payment & financial management
-- Online & paper exams
-- Question bank
-- Reports & dashboards
-- Role-based authorization
-
----
-
-### ⚖️ LegalFlow
-
-AI-powered legal case management and analysis platform.
-
-**Tech:** ASP.NET Core · Angular · SQL Server · OpenAI · Qdrant · RAG
-
-**Key Features**
-- Legal case management
-- Document processing
-- PDF text extraction
-- Document chunking
-- Vector search
-- Semantic retrieval
-- AI-powered legal analysis
-
----
-
-### 🏪 Store Management System
-
-A desktop management system designed for retail stores.
-
-**Tech:** C# · .NET · WPF · SQL Server · EF Core · QuestPDF
-
-**Key Features**
-- Product & inventory management
-- Sales & purchases
-- Expenses
-- Returns
-- Invoice generation
-- Arabic invoice printing
-- Reports
-- Inventory tracking
-
----
-
-## 🎯 Currently Learning
-
 ```text
-Advanced ASP.NET Core
-        ↓
 Clean Architecture
-        ↓
-CQRS & Vertical Slice Architecture
-        ↓
-Advanced SQL & EF Core
-        ↓
-System Design
-        ↓
-AI / RAG Applications
+Onion Architecture
+CQRS
+Vertical Slice Architecture
+SOLID Principles
+Design Patterns
+Dependency Injection
+Repository Pattern
+RESTful API Design
+Role-Based Authorization
